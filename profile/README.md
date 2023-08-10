@@ -1,7 +1,8 @@
-## Welcome to Spatial Data Science and GEO-AL Lab! 👋
+## Welcome to Spatial Data Science and GEO-AI (SDGAI) Lab! 👋
 
 This organization hosts repositories created as part of the lab's research activities.
-The Lab is based Department of Human Geography and Spatial Planning, Utrecht University; lead by Dr SM Labib
+The Lab is based Department of Human Geography and Spatial Planning, Utrecht University, led by Dr SM Labib.
+Details of the lab activities will follow...!
 
 <!--
 **Here are some ideas to get you started:**
