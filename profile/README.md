@@ -1,7 +1,7 @@
-## Welcome to Spatial Data Science and GEO-AI (SDGI) Lab!
+## Spatial Data Science and Geo-Intelligence (SDGI) Lab!
 
 This organization hosts repositories created as part of the lab's research activities.
-The Lab is based Department of Human Geography and Spatial Planning, Utrecht University, led by Dr SM Labib.
+The Lab is based on the Department of Human Geography and Spatial Planning, Utrecht University, led by Dr SM Labib.
 Details of the lab activities will follow...!
 
 <!--
